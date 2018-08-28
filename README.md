@@ -1,5 +1,3 @@
 #TODO 
-
-<Create a working Windows 10 Payload 
-
-<Create EVERYTHING/LEARN! *Im going to be the best 
+1.Create EVERYTHING/LEARN! 
+2.Create a working Windows 10 Payload 
