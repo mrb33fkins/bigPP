@@ -1,13 +1,16 @@
-#HOW TO
+HOW-TO
+------
 
-Simply run by doing python ./BigPP.py 
+python ./bigPP.py
 
-#TODO 
+TODO
+----
 
-1.Create EVERYTHING/LEARN! 
+* Create EVERYTHING/LEARN! 
 
-2.Create a working Windows 10 Payload 
+* Create a working Windows 10 Payload 
 
-#License
+LICENSE
+-------
 
 MIT Licensed 
